@@ -1,0 +1,13 @@
+img{
+    width: 200px; 
+}
+
+body{
+    text-align: center;
+    font-family: cursive;
+    background: rgb(255, 221, 245)
+}
+
+h1, p{
+    color:grey; 
+}
